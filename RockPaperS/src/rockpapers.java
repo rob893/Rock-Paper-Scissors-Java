@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class rockpapers {
 	
-	public static void game(){ //derp
+	public static void game(){
 		double num=Math.random();
 		Scanner in=new Scanner(System.in);
 		System.out.println(compare(playerChoice(in), computerChoice(num)));
