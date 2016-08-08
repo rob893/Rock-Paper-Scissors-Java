@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class rockpapers {
+public class rockpapers { // derp tum da tiddly derp da derp
 	
 	public static void game(){
 		double num=Math.random();
